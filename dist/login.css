@@ -139,4 +139,20 @@ input {
       -ms-flex-align: center;
           align-items: center;
 }
+
+.emergency-button {
+  background-color: red;
+  height: 3em;
+  width: 10em;
+  position: fixed;
+  left: 2.5em;
+  bottom: 1.5em;
+  border-radius: 8px;
+}
+
+button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+  border-radius: 4px;
+}
 /*# sourceMappingURL=login.css.map */
